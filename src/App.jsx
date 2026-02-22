@@ -86,7 +86,7 @@ function App() {
         <h2>Contact</h2>
         <p>Email: info@abplusdelta.nl</p>
         <p>Telefoon: +31 6 84905588</p>
-        <a href="mailto:info@bouwbedrijftuna.nl" className="btn-secondary">
+        <a href="mailto:info@abplusdelta.nl" className="btn-secondary">
           Direct Contact
         </a>
       </section>
