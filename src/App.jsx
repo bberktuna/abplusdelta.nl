@@ -19,7 +19,7 @@ function App() {
       <section className="hero">
         <div className="hero-overlay">
           <div className="hero-content">
-            <h1>Bouwbedrijf Tuna</h1>
+            <h1>AB+ Delta</h1>
             <p>
               Betrouwbare partner voor renovatie, nieuwbouw en complete
               bouwprojecten in Nederland.
@@ -84,15 +84,15 @@ function App() {
 
       <section id="contact" className="section contact">
         <h2>Contact</h2>
-        <p>Email: info@bouwbedrijftuna.nl</p>
-        <p>Telefoon: +31 6 25135960</p>
+        <p>Email: info@abplusdelta.nl</p>
+        <p>Telefoon: +31 6 84905588</p>
         <a href="mailto:info@bouwbedrijftuna.nl" className="btn-secondary">
           Direct Contact
         </a>
       </section>
 
       <footer className="footer">
-        © {new Date().getFullYear()} Bouwbedrijf Tuna — Alle rechten voorbehouden
+        © {new Date().getFullYear()} AB+ Delta — Alle rechten voorbehouden
       </footer>
 
     </div>
